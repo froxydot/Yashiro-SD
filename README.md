@@ -10,7 +10,7 @@
 <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/efb01549-9202-4a29-afdf-7ea9aa46eb69" />
 
 
-# Yashiro - BA
+# Yashiro - SD
 
 <a href="https://discord.gg/2MWaYdMqb7">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
