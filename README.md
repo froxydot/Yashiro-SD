@@ -42,8 +42,15 @@ Tested on Win11 25h2
 - Player Speed
 
 ### World
-- Dumb Enemies   
-- Skip Dialog 
+- Freeze Enimies   
+- Auto Dialog
+- Auto Loot
+
+### Teleports
+- Quest Teleport
+
+### Visuals
+- FOV Changer
 
 ---
 
