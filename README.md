@@ -40,6 +40,8 @@ Tested on Win11 25h2
 - Instant Kill  
 - Avatar Modifier 
 - Player Speed
+- Global Speed
+- Attack Speed
 
 ### World
 - Freeze Enimies   
@@ -48,6 +50,7 @@ Tested on Win11 25h2
 
 ### Teleports
 - Quest Teleport
+- Chest Teleport
 
 ### Visuals
 - FOV Changer
